@@ -21,38 +21,28 @@ organizations:
     url: https://www.polyu.edu.hk/
 
 # Social network links
-# Need to use another icon? Simply download the SVG to assets/media/icons/ and reference its filename.
+# To add ORCID/LinkedIn later, copy a line below and replace the url.
 profiles:
   - icon: at-symbol
-    url: 'mailto:CHANGE_ME@polyu.edu.hk'
+    url: 'mailto:haihong.bao@polyu.edu.hk'   # <-- 改成你的真实邮箱
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=tfWqDkoAAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/CHANGE-ME
-  - icon: academicons/linkedin
-    url: https://www.linkedin.com/in/CHANGE-ME/
 
 interests:
-  - Hollow-core fiber photonics
+  - Hollow-core fibre photonics
   - Photothermal & photoacoustic spectroscopy
   - Stimulated Raman gas spectroscopy
   - Trace gas sensing
-  - Fiber-optic sensors
+  - Fibre-optic sensors
 
 education:
-  - area: PhD
+  - area: PhD, Photonics
     institution: The Hong Kong Polytechnic University
-    date_end: ''
-  - area: BSc / MSc
-    institution: CHANGE ME
     date_end: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Haihong Bao is a Research Assistant Professor at The Hong Kong Polytechnic
-University, working on fiber-optic sensing and spectroscopy. His research
-focuses on hollow-core fiber photonics, photothermal and stimulated Raman
-spectroscopy, and ultra-sensitive trace gas detection.
+Haihong Bao is a Research Assistant Professor at The Hong Kong Polytechnic University, working on fibre-optic sensing and spectroscopy. His research focuses on hollow-core fibre photonics, photothermal and stimulated Raman spectroscopy, and ultra-sensitive trace gas detection.
